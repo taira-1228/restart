@@ -24,7 +24,7 @@ public class Example {
         System.out.println("bmakl;");
         System.out.println("name");
         System.out.println("name1");
-        System.out.println("namq");
+        System.out.println("name123");
     }
     
 }
