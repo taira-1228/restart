@@ -22,6 +22,7 @@ public class Example {
         System.out.println("fjaksl;");
         System.out.println("ewq:k");
         System.out.println("bmakl;");
+        System.out.println("name");
     }
     
 }
